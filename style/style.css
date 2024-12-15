@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Exo:ital,wght@0,100..900;1,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+.work-sans {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+  }
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  .hero{
+    height: 670px;
+    background-image: linear-gradient(0, rgb(16, 16, 16) -19.5%,rgba(16, 16, 16, 0) 100%),
+    url('/assets/hero-bg.png');
+    background-size: cover;
+    background-position: center;
+  }
+  .savor{
+    text-align: center;
+   
+    
+  }
+  .flavors{
+    font-weight: 600;
+    font-size: 32px;
+    color: #FFFFFF;
+    padding-top: 263px;
+    margin-bottom: 16px;
+
+    
+  }
+  .food{
+    font-weight: 700;
+    font-size:64px ;
+    color:#FFFFFF ;
+    margin-bottom: 24px;
+  }
+  .popular{
+    font-weight: 500;
+    font-size:18px ;
+    color:#FFFFFF ;
+    margin-bottom: 32px;
+  }
+  .shop{
+    font-weight: 600;
+    font-size:20px ;
+    color:#FFFFFF ;
+    background-color: #52C303;
+    border-radius: 8px;
+    padding: 21px 32px;
+  }
+  .card-parent{
+    display: flex;
+    justify-content: space-between;
+  }
+  .text-card{
+    text-align: center;
+  }
+  .card{
+    margin: 64px 80px;
+  }
+  .brand{
+   font-weight: 500;
+   font-size: 24px;
+   color: #101010;
+   margin-bottom: 16px;
+  }
+  .sale{
+    font-weight: 700;
+    font-size: 48px;
+    color: #101010;
+    margin-bottom: 48px;
+  }
+  .pizza{
+    text-align: center;
+  }
+  .btn1{
+    font-weight: 600;
+    font-size: 24px;
+    color: #101010;
+    margin-bottom: 28px;
+    background-color: #52C30326;
+  }
+  .off{
+    font-weight: 600;
+    font-size: 47px;
+    color: #101010;
+    margin-bottom: 40px;
+    
+  }
+  .btn2{
+    margin-top: 64px;
+    text-align: center;
+   
+  }
+  .btn3{
+    background-color:#52C303 ;
+    color: #FFFFFF;
+    padding: 21px 32px 21px 32px;
+  }
+  .banner{
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+  }
+  .good{
+    text-align: center;
+    align-items: center;
+    margin-top: 150px;
+  }
+.make{
+  font-weight: 700;
+  font-size: 48px;
+  color: #101010;
+  margin-bottom: 24px;
+
+}
+.miss{
+  font-weight: 500;
+  font-size: 24px;
+  color: #101010;
+  margin-bottom: 48px;
+}
+
